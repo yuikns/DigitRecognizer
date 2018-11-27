@@ -1,4 +1,3 @@
-svmLightCmakeLib
-================
+# Sol: digit recognizer
 
-cmake version for svm
+this is a svm solution, does not work
