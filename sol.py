@@ -349,9 +349,3 @@ with open(file_result, "w") as f:
     print("done")
 
 
-# In[ ]:
-
-
-import torch
-torch.save((state_dicts, self.state_dict()), output_path)
-
